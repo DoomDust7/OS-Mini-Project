@@ -1,0 +1,8 @@
+https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html //ioctl info
+https://www.kernel.org/doc/htmldocs/kernel-api/API---copy-from-user.html // copy_from_user
+https://www.kernel.org/doc/htmldocs/kernel-api/API---copy-to-user.html //copy to user
+http://www.hep.by/gnu/kernel/usb/API-struct-usb-device.html //usb-device structure
+https://makelinux.net/ldd3/chp-13-sect-4.shtml //writing usb-driver document
+http://www.hep.by/gnu/kernel/usb/API-usb-register-dev.html //usb-register file
+https://man7.org/linux/man-pages/man2/ioctl.2.html //ioctl linux man pages
+https://bolmj.files.wordpress.com/2014/11/easyldd_v2-1_edited.pdf //easy linux driver book
